@@ -122,7 +122,6 @@ AC (3ms, 316KB)
 
 ```cpp
 #include<bits/stdc++.h>
-#include<utility>
 using namespace std;
 
 stack <int> stk1;
