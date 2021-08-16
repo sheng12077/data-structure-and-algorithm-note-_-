@@ -182,7 +182,7 @@ signed main(){
         vec.push_back(s);
     }
     int n=vec.size();                           //其實這行好像沒必要寫==，但我懶的改
-    for (int i=n-1;i>-1;i--){                   //從vec的後面讀回來
+    for (int i=n-1;i>-1;i--){                   //從vec的後面讀回來   讀完整個vec，且次數是vec的大小
         if (vec[i]=="f"){
             int a;
             a=stk.top();
@@ -209,11 +209,11 @@ signed main(){
         }
         else{                                    //不是f也不是g也不是h 那就是個數字，把這個數字string轉成int
             int tmp;                             //一個用來暫存資料的變數
-            tmp=stoi(vec[i]);                    //
+            tmp=stoi(vec[i]);                    //stoi()可以把string轉int
             stk.push(tmp);
         }
     }
-    cout<<stk.top()<<"\n";
+    cout<<stk.top()<<"\n";                       //整個迴圈跑外就剩下一個值在stk中，也就是答案
 }
 //f640
 ```
