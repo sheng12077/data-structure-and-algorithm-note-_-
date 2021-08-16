@@ -14,6 +14,7 @@ stack就像疊積木的感覺
 
 夠白話了吧
 
+# 
 這是一個stack
 
 <img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129564369-75c59b78-47bb-44e6-8a02-57c5d7f25969.png">
