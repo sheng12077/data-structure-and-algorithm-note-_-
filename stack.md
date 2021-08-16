@@ -23,6 +23,8 @@ stack就像疊積木的感覺
 
 <img width="334" alt="stack002" src="https://user-images.githubusercontent.com/86102390/129564881-66e47647-7f3f-4e15-999d-7859d140c787.png">
 
+Top變0這個元素了
+
 <img width="331" alt="stack003" src="https://user-images.githubusercontent.com/86102390/129565468-ffccbfc0-5f38-47e2-8c51-41c0c76e0c03.png">
 
 <img width="329" alt="stack004" src="https://user-images.githubusercontent.com/86102390/129565490-e1026ea4-1af1-4491-9461-086810053681.png">
