@@ -85,6 +85,36 @@ stack<long long>stk4;
 .
 諸如此類
 ```
+
+接著stack的宣告的名稱全部叫stk
+
+* .top()
+```cpp
+cout<<stk.top()<<endl;             //輸出stack最頂端的值
+```
+
+* .push()
+```cpp
+stk.push(x);                       //將資料放進stk中
+```
+
+* .pop()
+```cpp
+stk.pop();                         //沒有輸出值，只是把頂端元素拋棄(刪除)
+```
+
+* .size()
+```cpp
+cout<<stk.size()<<endl;            //輸出stk的大小(層數)
+```
+
+* .empty()
+```cpp
+cout<<stk.empty()<<endl;           //stk空的時候回傳true，有東西時回傳false
+```
+
+
+# 
 b923: stack 堆疊的模板題:
 https://zerojudge.tw/ShowProblem?problemid=b923
 AC (3ms, 316KB)
