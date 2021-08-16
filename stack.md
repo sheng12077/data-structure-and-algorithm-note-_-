@@ -1,5 +1,16 @@
 #stack
 
+Stack-中文叫作堆疊
+
+先稍微解釋一下這是什麼概念
+原理的話先不要因為我不知道
+因為我只知道怎麼用==
+
+stack就像疊積木的感覺
+一層一層疊上去
+夠白話了吧
+
+先來介紹基本的概念
 <img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129564369-75c59b78-47bb-44e6-8a02-57c5d7f25969.png">
 
 <img width="334" alt="stack002" src="https://user-images.githubusercontent.com/86102390/129564881-66e47647-7f3f-4e15-999d-7859d140c787.png">
