@@ -77,6 +77,7 @@ Stack空了
 stack<int>stk1;                     //   我這邊叫它stk1   它存的是int
 stack<char>stk2;                    //   我這邊叫它stk2   這個存的是char
 stack<string>stk3;                  //   
+stack<bool>stk4;
 ```
     
     
