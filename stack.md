@@ -1,5 +1,13 @@
 # stack
 
+
+* e
+* \
+* e
+* e
+* ee
+* f
+* f
 Stack-中文叫作堆疊
 
 先稍微解釋一下這是什麼概念
@@ -66,7 +74,7 @@ Top變0
 Stack空了
 
 # 
-*hufdhfkjhfkjhf
+
 
 <img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129567244-6f04efb4-ea16-4a29-9811-9e4a1cacc598.png">
 b923: stack 堆疊的模板題:
