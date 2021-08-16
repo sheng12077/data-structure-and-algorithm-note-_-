@@ -15,8 +15,11 @@ stack就像疊積木的感覺
 夠白話了吧
 
 這是一個stack
+
 <img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129564369-75c59b78-47bb-44e6-8a02-57c5d7f25969.png">
+
 現在加入0這個元素進去stack
+
 <img width="334" alt="stack002" src="https://user-images.githubusercontent.com/86102390/129564881-66e47647-7f3f-4e15-999d-7859d140c787.png">
 
 <img width="331" alt="stack003" src="https://user-images.githubusercontent.com/86102390/129565468-ffccbfc0-5f38-47e2-8c51-41c0c76e0c03.png">
