@@ -148,6 +148,8 @@ signed main(){
 ```
 這題會用到其他的資料結構，建議可以先去了解vector再來解這題
 
+然後題解跟想法的話晚點再說
+
 f640: 函數運算式求值:
 https://zerojudge.tw/ShowProblem?problemid=f640
 AC (3ms, 392KB)
