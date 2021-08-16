@@ -1,6 +1,7 @@
 #stack
 
-<img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129564369-75c59b78-47bb-44e6-8a02-57c5d7f25969.png"><img width="334" alt="stack002" src="https://user-images.githubusercontent.com/86102390/129564770-205f6b2f-5dc5-4727-a889-ceffffa0e4d3.png">
+<img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129564369-75c59b78-47bb-44e6-8a02-57c5d7f25969.png"><img width="334" 
+alt="stack002" src="https://user-images.githubusercontent.com/86102390/129564770-205f6b2f-5dc5-4727-a889-ceffffa0e4d3.png">
 
 
 ```cpp
