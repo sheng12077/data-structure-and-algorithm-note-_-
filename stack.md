@@ -90,7 +90,7 @@ stack<long long>stk4;
 
 * .top()
 ```cpp
-cout<<stk.top()<<endl;             //輸出stack最頂端的值
+cout<<stk.top()<<endl;             //輸出stk最頂端的值
 ```
 
 * .push()
