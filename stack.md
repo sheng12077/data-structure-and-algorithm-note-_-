@@ -116,6 +116,7 @@ cout<<stk.empty()<<endl;           //stk空的時候回傳true，有東西時回
 
 
 # 接著是簡單的題目，熟悉語法
+
 b923: stack 堆疊的模板題:
 https://zerojudge.tw/ShowProblem?problemid=b923
 AC (3ms, 316KB)
@@ -125,12 +126,12 @@ AC (3ms, 316KB)
 using namespace std;
 
 stack <int> stk1;
-int n,operation,inputval;
+int n,operation,inputval;                //n操作次數    operation操作編號   inputval加入的資料的值
 
 signed main(){
     cin>>n;
-    for (int i=1;i<=n;i++){
-        cin>>operation;
+    for (int i=1;i<=n;i++){              //執行n次
+        cin>>operation;                  //輸入操作編號
         if (operation==1){
             stk1.pop();
         }
@@ -145,6 +146,7 @@ signed main(){
 }
 //b923
 ```
+這題會用到其他的資料結構，建議可以先去了解vector再來解這題
 
 f640: 函數運算式求值:
 https://zerojudge.tw/ShowProblem?problemid=f640
@@ -153,34 +155,34 @@ AC (3ms, 392KB)
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
-
-int F(long long x){
+                                                   //開long long是怕int會爆，我沒看題目最大給多少反正我覺得會爆就直接開long long 這樣比較保險
+int F(long long x){                                //F函式
     return (2*x-3);     
 }
 
-int G(long long x,long long y){
+int G(long long x,long long y){                    //G函式
     return (2*x+y-7);
 }
 
-int H(long long x,long long y,long long z){
+int H(long long x,long long y,long long z){        //H函式
     return (3*x-2*y+z);
 }
 
 signed main(){
 
-    ios::sync_with_stdio(0);
+    ios::sync_with_stdio(0);                       //cin cout 加速
     cin.tie(0);
     cout.tie(0);
 
-    vector<string> vec;
-    stack<long long>stk;
+    vector<string> vec;                            //vec 是存輸入的資料的，這邊全部先設定成string，如果是數字的string等等再轉成int就可以囉
+    stack<long long>stk;                           //stk是存數字的，一樣直接開long long，我怕爆掉
     
     string s;
-    while(cin>>s){
+    while(cin>>s){                                 //沒給輸入多少行，直接用while cin去輸入
         vec.push_back(s);
     }
-    int n=vec.size();
-    for (int i=n-1;i>-1;i--){
+    int n=vec.size();                              //其實這行好像沒必要寫==，但我懶的改
+    for (int i=n-1;i>-1;i--){                      //從vec的後面讀回來
         if (vec[i]=="f"){
             int a;
             a=stk.top();
@@ -205,9 +207,9 @@ signed main(){
             stk.pop();
             stk.push(H(a,b,c));
         }
-        else{
-            int tmp;
-            tmp=stoi(vec[i]);
+        else{                                       //不是f也不是g也不是h 那就是個數字，把這個數字string轉成int
+            int tmp;                                //一個用來暫存資料的變數
+            tmp=stoi(vec[i]);                       //
             stk.push(tmp);
         }
     }
