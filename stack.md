@@ -47,7 +47,7 @@ Top再變
 
 <img width="349" alt="stack008" src="https://user-images.githubusercontent.com/86102390/129567108-37503f6a-8024-4a15-a3b6-cf6c7682b618.png">
 
-Top變0
+Top變69
 
 <img width="331" alt="stack009" src="https://user-images.githubusercontent.com/86102390/129567119-28278347-b36b-4406-956d-1f74eeaf51a4.png">
 
