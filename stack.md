@@ -1,13 +1,6 @@
 # stack
 
 
-* e
-* \
-* e
-* e
-* ee
-* f
-* f
 Stack-中文叫作堆疊
 
 先稍微解釋一下這是什麼概念
@@ -73,8 +66,20 @@ Top變0
 
 Stack空了
 
-# 
+# 然後是一些基礎語法
+* 宣告
+```cpp
+#include<bits/stdc++.h>
+#include<stack>                     //兩個都可以用，不過上面那個非常好用，懶的話用上面那個就對了
 
+                                    //stack <資料型態> Stack的名稱 
+                                    
+stack<int>stk1;                     //   我這邊叫它stk1   它存的是int
+stack<char>stk2                     //   我這邊叫它stk2   這個存的是char
+```
+    
+    
+    
 
 <img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129567244-6f04efb4-ea16-4a29-9811-9e4a1cacc598.png">
 b923: stack 堆疊的模板題:
