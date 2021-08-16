@@ -66,6 +66,8 @@ Top變0
 
 Stack空了
 
+<img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129567244-6f04efb4-ea16-4a29-9811-9e4a1cacc598.png">
+
 # 然後是一些基礎語法
 * 宣告
 ```cpp
@@ -83,11 +85,6 @@ stack<long long>stk4;
 .
 諸如此類
 ```
-    
-    
-    
-
-<img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129567244-6f04efb4-ea16-4a29-9811-9e4a1cacc598.png">
 b923: stack 堆疊的模板題:
 https://zerojudge.tw/ShowProblem?problemid=b923
 AC (3ms, 316KB)
