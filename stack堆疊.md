@@ -3,6 +3,8 @@
 
 Stack-中文叫作堆疊
 
+隔壁國家叫這個堆栈
+
 先稍微解釋一下這是什麼概念
 
 原理的話先不要因為我不知道
@@ -14,6 +16,17 @@ stack就像疊積木的感覺
 一層一層疊上去
 
 夠白話了吧
+
+# 
+
+堆疊
+
+先進後出FILO也就是後進先出LIFO的特性
+
+~~對，這是幹話~~
+
+
+
 
 # 
 這是一個stack
@@ -219,4 +232,16 @@ signed main(){
 }
 //f640
 ```
+
+# 其他類題
+
+TIOJ-1368-get high
+
+https://tioj.ck.tp.edu.tw/problems/1368
+
+uva-00514-Rails
+
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=455
+
+https://zerojudge.tw/ShowProblem?problemid=c123
  
