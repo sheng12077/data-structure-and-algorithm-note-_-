@@ -58,7 +58,7 @@ signed main(){
 
 f640: 函數運算式求值:
 https://zerojudge.tw/ShowProblem?problemid=f640
-
+AC (3ms, 392KB)
 
 ```cpp
 #include<bits/stdc++.h>
