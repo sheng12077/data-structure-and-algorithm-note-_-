@@ -55,9 +55,15 @@ Top變69
 
 <img width="326" alt="stack010" src="https://user-images.githubusercontent.com/86102390/129567124-f799c917-94d2-4186-a41a-6b2a695ae4ed.png">
 
+Top變0
+
 <img width="326" alt="stack011" src="https://user-images.githubusercontent.com/86102390/129567127-e5a77232-0ca0-4405-bf58-26b79b489ec7.png">
 
+再pop一次頂端的元素
+
 <img width="322" alt="stack012" src="https://user-images.githubusercontent.com/86102390/129567151-2b0483c5-550f-4a13-9487-60ab738a3ffe.png">
+
+Stack空了
 
 <img width="335" alt="stack001" src="https://user-images.githubusercontent.com/86102390/129567244-6f04efb4-ea16-4a29-9811-9e4a1cacc598.png">
 b923: stack 堆疊的模板題:
