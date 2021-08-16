@@ -1,7 +1,0 @@
-#linked list
-
-
-
-
-
-**jakcksac**
