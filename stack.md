@@ -35,15 +35,15 @@ Top再次改變
 
 <img width="332" alt="stack005" src="https://user-images.githubusercontent.com/86102390/129565502-7eb08ece-356e-429c-8972-40ffdd2f8fca.png">
 
-接著pop頂端的元素
+接著加入420這個元素
 
 <img width="332" alt="stack006" src="https://user-images.githubusercontent.com/86102390/129565931-410f46e3-b66a-4da1-8f00-3d27cb2c3463.png">
 
-Top變回69
+Top再變
 
 <img width="329" alt="stack007" src="https://user-images.githubusercontent.com/86102390/129565958-8d54b24d-69db-45e6-b3ef-9a37e5e04bf1.png">
 
-再pop stack最頂的元素
+接著pop頂端的元素
 
 <img width="349" alt="stack008" src="https://user-images.githubusercontent.com/86102390/129567108-37503f6a-8024-4a15-a3b6-cf6c7682b618.png">
 
@@ -51,7 +51,7 @@ Top變0
 
 <img width="331" alt="stack009" src="https://user-images.githubusercontent.com/86102390/129567119-28278347-b36b-4406-956d-1f74eeaf51a4.png">
 
-再pop一次頂端的元素
+再pop stack最頂的元素
 
 <img width="326" alt="stack010" src="https://user-images.githubusercontent.com/86102390/129567124-f799c917-94d2-4186-a41a-6b2a695ae4ed.png">
 
