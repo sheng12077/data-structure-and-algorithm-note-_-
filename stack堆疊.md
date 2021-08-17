@@ -236,10 +236,6 @@ signed main(){
 
 # 其他類題
 
-TIOJ-1368-get high
-
-https://tioj.ck.tp.edu.tw/problems/1368
-
 uva-00514-Rails
 
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=455
