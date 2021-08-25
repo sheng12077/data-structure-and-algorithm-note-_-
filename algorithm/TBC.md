@@ -1,5 +1,3 @@
-EX:
-
 這是標題
 =
 
@@ -10,8 +8,6 @@ EX:
 ```
 
 
-
-EX:
 
 [這是網址](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
