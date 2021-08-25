@@ -52,6 +52,6 @@
 
 這是 | 表格
 --- | ---
-JavaScript | js
-Python | 
+ | js
+ | 
 C++ | cpp
