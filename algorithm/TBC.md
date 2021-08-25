@@ -8,6 +8,8 @@ EX:
 (換行之後"等於符號")
 ```
 
+
+
 EX:
 
 [rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -16,6 +18,9 @@ EX:
 [標題](網址)
 ```
 
+
+*asterisks*  //斜體
+**asterisks** //粗體
 
 
 
