@@ -5,6 +5,7 @@ EX:
 
 ```
 標題
+=
 (換行之後"等於符號")
 ```
 
@@ -12,17 +13,26 @@ EX:
 
 EX:
 
-[rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[這是網址](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ```
 [標題](網址)
 ```
 
 
-*asterisks*  //斜體
-**asterisks** //粗體
+*這是斜體*
+
+```
+*文字*
+```
 
 
+
+**這是粗體**
+
+```
+**文字**
+```
 
 
 
