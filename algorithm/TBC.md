@@ -1,8 +1,5 @@
-![CodeCogsEqn](https://user-images.githubusercontent.com/86102390/130901964-eec7cb28-fd8f-4a35-a96b-ef90e018b5f9.png)
 
 ![CodeCogsEqn (1)](https://user-images.githubusercontent.com/86102390/130902077-cdeb7bd3-0d63-4b5f-817b-deafbd3ff097.png)
-
-
 ======================================================================================
 
 這是標題
