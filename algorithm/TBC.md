@@ -1,4 +1,5 @@
-<img width="179" alt="Screenshot 2021-08-25 103428" src="https://user-images.githubusercontent.com/86102390/130901900-ade402be-f2a3-470d-b297-c95de544a994.png">
+![CodeCogsEqn](https://user-images.githubusercontent.com/86102390/130901964-eec7cb28-fd8f-4a35-a96b-ef90e018b5f9.png)
+
 ======================================================================================
 
 這是標題
