@@ -113,6 +113,7 @@ signed main(){
 }
 ```
 
+[zerojudge: c291: APCS 2017-0304-2小群體](https://zerojudge.tw/ShowProblem?problemid=c291)AC (10ms, 920KB)
 
 ```cpp
 #include<bits/stdc++.h>
