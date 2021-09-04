@@ -165,8 +165,7 @@ signed main(){
     cout<<ans;
 }
 ```
-
-# 
+ 
 
 其他類題
 ===
