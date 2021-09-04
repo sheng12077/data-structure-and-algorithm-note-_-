@@ -131,8 +131,7 @@ cout<<stk.empty()<<endl;           //stk空的時候回傳true，有東西時回
 
 # 接著是簡單的題目，熟悉語法
 
-b923: stack 堆疊的模板題:
-https://zerojudge.tw/ShowProblem?problemid=b923
+[zerojudgeb923: stack 堆疊的模板題:](https://zerojudge.tw/ShowProblem?problemid=b923)
 AC (3ms, 316KB)
 
 ```cpp
