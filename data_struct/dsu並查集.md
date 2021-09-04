@@ -59,7 +59,7 @@ signed main(){
     }
 }
 ```
-===
+
 
 [zerojudge:f677: FJCU_109_Winter_Day3_Lab1 並查集練習](https://zerojudge.tw/ShowProblem?problemid=f677)	AC (3ms, 740KB)
 
