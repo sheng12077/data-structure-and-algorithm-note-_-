@@ -36,7 +36,7 @@ signed main(){
 
     int n,m;
     cin>>n>>m;
-    int parent[10005]={0};
+    int parent[100000]={0};
     int edges[m][2];
     initialise(n,parent);
     for(int i=0;i<m;i++){
