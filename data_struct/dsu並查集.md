@@ -1,7 +1,7 @@
 dsu並查集
 ==
 
-[zerojudge: a445: 新手訓練系列- 我的朋友很少](https://zerojudge.tw/ShowProblem?problemid=a445)
+[zerojudge: a445: 新手訓練系列- 我的朋友很少](https://zerojudge.tw/ShowProblem?problemid=a445)AC (49ms, 452KB)
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
