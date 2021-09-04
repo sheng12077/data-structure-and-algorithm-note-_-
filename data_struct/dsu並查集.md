@@ -41,11 +41,7 @@ signed main(){
     int edges[m][2];
     for (int i=0;i<m;i++){
         cin>>edges[i][0]>>edges[i][1];
-    }
-    for (int i=0;i<m;i++){
-        int x=edges[i][0];
-        int y=edges[i][1];
-        merge(x,y,parent);
+        merge(edges[i][0],edges[i][1],parent);
     }
     while(q--){
         int a,b;
