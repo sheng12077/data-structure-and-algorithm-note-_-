@@ -1,6 +1,8 @@
 dsu並查集
 ==
 
+模板
+==
 ```cpp
 void initialise(int n,int parent[]){
     for (int i=0;i<n;i++){
