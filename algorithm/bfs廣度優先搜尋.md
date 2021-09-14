@@ -1,4 +1,4 @@
-bfs
+bfs廣度優先搜尋
 ===
 
 [zerojudge:d406: 倒水時間](https://zerojudge.tw/ShowProblem?problemid=d406)AC (33ms, 332KB)
