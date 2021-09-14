@@ -1,6 +1,7 @@
 bfs
 ===
 
+[zerojudge:d406: 倒水時間](https://zerojudge.tw/ShowProblem?problemid=d406)AC (33ms, 332KB)
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
