@@ -42,14 +42,6 @@ signed main(){
             y=qy.front();
             qx.pop();
             qy.pop();
-            /*
-            if(s==1){
-                int for_num=4;
-            }
-            else{
-                int for_num=3;
-            }
-            */
             for (int i=0;i<5-s;i++){
                 int tx=x+dx[i];
                 int ty=y+dy[i];
