@@ -23,14 +23,16 @@ signed main(){
                 cin>>grid[i][j];
             }
         }
-        int y=0;
+        int y=0;               //確定第一行有，所以直接設定
         int x;
-        for(int j=0;j<m;j++){
+        for(int j=0;j<m;j++){  //找第一行的第j個
             if(grid[0][j]==1){
                 x=j;
-                break;
+                break;         //找到就break
             }
         }
+        //這邊排列很細節，因為s=2水不能向上，所以最後一個是向上的
+               //右 左 上 下
         int dx[4]={1,-1,0,0};
         int dy[4]={0,0,1,-1};
         queue<int>qx;
@@ -46,9 +48,9 @@ signed main(){
             for (int i=0;i<5-s;i++){
                 int tx=x+dx[i];
                 int ty=y+dy[i];
-                if(tx>=0 and ty>=0 and tx<m and ty<n){
-                    if(grid[ty][tx]==1){
-                        grid[ty][tx]=grid[y][x]+1;
+                if(tx>=0 and ty>=0 and tx<m and ty<n){  //判斷是否在界內
+                    if(grid[ty][tx]==1){                //如果是1(水管)
+                        grid[ty][tx]=grid[y][x]+1;      
                         qx.push(tx);
                         qy.push(ty);
                     }
@@ -57,13 +59,13 @@ signed main(){
         }
         for(int j=0;j<m;j++){
             if(grid[0][j]!=0){
-                grid[0][j]=1;
+                grid[0][j]=1;          //第一行的數字(開始位置)可能被改掉
                 break;
             }
         }
-        for(int i=1;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1){
+        for(int i=1;i<n;i++){          //從第二行開始(所以for loop 從1開始)
+            for(int j=0;j<m;j++){     
+                if(grid[i][j]==1){     //把流不到的改0
                     grid[i][j]=0;
                 }
             }
