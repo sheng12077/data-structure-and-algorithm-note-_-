@@ -142,7 +142,7 @@ signed main(){
     }
 }
 ```
-
+[tioj:1022 . H.跑跑卡恩車](https://tioj.ck.tp.edu.tw/problems/1022)(Results of submission #268814 AC 196ms)
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
