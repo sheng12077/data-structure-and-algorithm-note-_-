@@ -101,7 +101,7 @@ stack<long long>stk4;
 諸如此類
 ```
 
-接著stack的宣告的名稱全部叫stk
+接著stack的宣告的名稱全部叫stk，方便說明
 
 * .top()
 ```cpp
