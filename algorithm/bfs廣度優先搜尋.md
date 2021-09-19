@@ -197,4 +197,4 @@ signed main(){
 ===
 [zerojudge:c124: 00532 - Dungeon Master](https://zerojudge.tw/ShowProblem?problemid=c124)   這題其實就是3維bfs
 
-https://zerojudge.tw/ShowProblem?problemid=d453
+[zerojudge:d453: 三、最短距離](https://zerojudge.tw/ShowProblem?problemid=d453)
