@@ -196,3 +196,5 @@ signed main(){
 其他類題
 ===
 [zerojudge:c124: 00532 - Dungeon Master](https://zerojudge.tw/ShowProblem?problemid=c124)   這題其實就是3維bfs
+
+https://zerojudge.tw/ShowProblem?problemid=d453
