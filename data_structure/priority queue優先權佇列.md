@@ -32,7 +32,7 @@ signed main(){
 	}
 }
 ```
-[tioj:1424. 手續費 (Fee)](https://tioj.ck.tp.edu.tw/submissions/269562)(Results of submission #269562 96ms)
+[tioj:1424. 手續費 (Fee)](https://tioj.ck.tp.edu.tw/submissions/269562)(Results of submission #269562 AC 96ms)
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
