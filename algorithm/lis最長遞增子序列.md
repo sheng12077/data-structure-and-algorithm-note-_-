@@ -1,6 +1,6 @@
 lis最長遞增子序列
 ===
-[zerojudge:d242: 00481 - What Goes Up](https://zerojudge.tw/ShowProblem?problemid=d242)
+[zerojudge:d242: 00481 - What Goes Up](https://zerojudge.tw/ShowProblem?problemid=d242)	AC(0.1s,12MB)
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
