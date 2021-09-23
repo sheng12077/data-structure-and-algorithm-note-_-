@@ -4,7 +4,6 @@ lis最長遞增子序列
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
-//#define int long long
 
 signed main(){
 
