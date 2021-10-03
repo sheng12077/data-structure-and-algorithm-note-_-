@@ -49,7 +49,7 @@ signed  main(){
     cout<<ans;
 }
 ```
-[codeforces:115A](https://codeforces.com/problemset/problem/115/A)(AC )
+[codeforces:115A](https://codeforces.com/problemset/problem/115/A)(AC 62ms 130663210)
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
