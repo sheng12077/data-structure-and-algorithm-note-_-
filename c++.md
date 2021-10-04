@@ -18,3 +18,7 @@ substr()
 ```
 equal_range
 ```
+
+```cpp
+stable_sort()
+```
