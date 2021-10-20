@@ -55,7 +55,6 @@ signed main(){
 	}
 	else{
 		cout<<grid[n-2][n-2]<<"\n";
-		
 	}
 }
 ```
