@@ -1,6 +1,8 @@
 bfs廣度優先搜尋
 ===
 
+
+
 [zerojudge:a982: 迷宮問題#1](https://zerojudge.tw/ShowProblem?problemid=a982)AC (3ms, 440KB)
 ```cpp
 #include <bits/stdc++.h>
