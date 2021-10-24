@@ -1,6 +1,19 @@
 dijkstra algorithm最短路徑
 =====
+
+~~刪除線~~
+
+19^th^
+
 H~2~O
+
+++插入文字++
+
+==標記文字==
+
+
+
+
 
 [zerojudge:PD.紅血球的快遞任務](https://zerojudge.tw/ShowProblem?problemid=g422)AC(80ms, 9.1MB)
 ```cpp
