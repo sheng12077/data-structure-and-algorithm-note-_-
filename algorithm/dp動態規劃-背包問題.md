@@ -20,6 +20,24 @@
 
 *dp[i][n]* 表示只考慮第1到i項物品，背包體積為n時的最大價值。
 
+假設固定體積n的背包，且有k種物品考慮
+
+可寫成(偽程式碼):
+
+```cpp
+for(int i=0;i<k;i++){
+    for(int j=0;j<n;j++){
+        if(n>=weight[i]){
+            dp[i][n]=max(dp[i-1][n],dp[i-1][n-weight[i]]+value[i]);
+        }
+        else{
+            dp[i][n]=dp[i-1][n];
+        }
+    }    
+}
+```
+
+
 [zerojudge:b184: 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184) AC(2ms, 336KB)
 ```cpp
 #include<bits/stdc++.h>
