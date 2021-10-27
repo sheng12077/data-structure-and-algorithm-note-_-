@@ -18,6 +18,7 @@
 
 ### 01背包問題
 ![CodeCogsEqn (3)](https://user-images.githubusercontent.com/86102390/139023629-f6c9b634-551f-468f-af59-6c9beca74cea.png) 表示只考慮第1到i項物品，背包體積為n時的最大價值。
+![CodeCogsEqn (6)](https://user-images.githubusercontent.com/86102390/139024667-71121e6d-c869-4926-b73c-6101f8602969.png)
 
 [zerojudge:b184: 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184) AC(2ms, 336KB)
 ```cpp
