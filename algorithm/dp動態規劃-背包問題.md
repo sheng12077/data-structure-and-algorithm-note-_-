@@ -17,6 +17,7 @@
 
 
 ### 01背包問題
+![CodeCogsEqn (1)](https://user-images.githubusercontent.com/86102390/139023177-6febbb18-c4a0-4be3-aaf6-96d8ef4aee99.gif) 表示
 
 
 [zerojudge:b184: 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184) AC(2ms, 336KB)
