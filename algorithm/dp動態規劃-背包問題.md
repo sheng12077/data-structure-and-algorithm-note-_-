@@ -16,7 +16,7 @@
   每**種**物品個數**有限定數量**
 
 
-## 01背包問題
+### 01背包問題
 
 
 [zerojudge:b184: 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184) AC(2ms, 336KB)
@@ -106,7 +106,7 @@ signed main(){
 
 
 
-## 有限背包問題
+### 有限背包問題
 
 
 [tioj:1387. Striker的秘密](https://tioj.ck.tp.edu.tw/submissions/274841)(Results of submission #274841 AC 732ms)
