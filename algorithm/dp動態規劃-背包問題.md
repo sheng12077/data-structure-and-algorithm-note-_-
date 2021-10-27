@@ -1,4 +1,4 @@
-dp動態規劃-背包問題
+01背包問題
 =====
 
 [zerojudge:b184: 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184) AC(2ms, 336KB)
