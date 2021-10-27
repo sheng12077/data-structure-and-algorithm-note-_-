@@ -2,11 +2,6 @@ dp動態規劃-有限背包問題
 ====
 
 
-
-
-
-
-
 [tioj:1387. Striker的秘密](https://tioj.ck.tp.edu.tw/submissions/274841)(Results of submission #274841 AC 732ms)
 
 ```cpp
