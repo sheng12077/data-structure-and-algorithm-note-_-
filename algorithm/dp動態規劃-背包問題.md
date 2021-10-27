@@ -17,7 +17,6 @@
 
 
 ### 01背包問題
-![CodeCogsEqn (9)](https://user-images.githubusercontent.com/86102390/139025492-93316c08-ef4b-48ef-8ee3-e84e5565fff6.png)
 
 *dp[i][n]* 表示只考慮第1到i項物品，背包體積為n時的最大價值。
 
