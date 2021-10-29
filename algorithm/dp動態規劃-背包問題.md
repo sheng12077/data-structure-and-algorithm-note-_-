@@ -16,8 +16,10 @@
   每**種**物品個數**有限定數量**
 
 
-### 01背包問題
-
+01背包問題
+===
+ 
+  
 *dp[i][n]* 表示只考慮第1到i項物品，背包體積為n時的最大價值。
 
 假設固定體積n的背包，且有k種物品考慮
@@ -37,6 +39,7 @@ for(int i=0;i<k;i++){
 }
 ```
 
+## 範例練習
 
 [zerojudge:b184: 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184) AC(2ms, 336KB)
 ```cpp
@@ -128,8 +131,8 @@ signed main(){
 
 
 
-### 有限背包問題
-
+有限背包問題
+===
 
 [tioj:1387. Striker的秘密](https://tioj.ck.tp.edu.tw/submissions/274841)(Results of submission #274841 AC 732ms)
 
