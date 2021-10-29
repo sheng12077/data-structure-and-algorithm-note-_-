@@ -16,8 +16,8 @@
   每**種**物品個數**有限定數量**
 
 
-01背包問題
-===
+## 01背包問題
+
  先把接著要訂的變數規定好
  
  不然會很混亂==
@@ -73,7 +73,7 @@ for(int i=0;i<物品數量;i++){
     }
 }
 ```
-## 範例練習
+### 範例練習
 
 [zerojudge:b184: 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184) AC(2ms, 336KB)
 ```cpp
@@ -160,13 +160,13 @@ signed main(){
 ```
 
 
-## 其他類題
+### 其他類題
 [zerojudge:a587: 祖靈好孝順 ˋˇˊ](https://zerojudge.tw/ShowProblem?problemid=a587)
 
 
 
-有限背包問題
-===
+## 有限背包問題
+
 
 [tioj:1387. Striker的秘密](https://tioj.ck.tp.edu.tw/submissions/274841)(Results of submission #274841 AC 732ms)
 
