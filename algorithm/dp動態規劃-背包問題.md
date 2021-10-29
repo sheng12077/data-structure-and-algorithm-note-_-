@@ -1,4 +1,4 @@
-# 背包問題
+背包問題
 ====
 
 經典的背包問題有3種:
@@ -122,6 +122,9 @@ signed main(){
 }
 ```
 
+
+## 其他類題
+[zerojudge:a587: 祖靈好孝順 ˋˇˊ](https://zerojudge.tw/ShowProblem?problemid=a587)
 
 
 
