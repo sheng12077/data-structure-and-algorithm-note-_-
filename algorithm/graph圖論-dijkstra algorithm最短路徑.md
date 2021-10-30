@@ -13,6 +13,7 @@ using namespace std;
 #define maxn 100005
 
 int dis[maxn];
+bool gone[maxn]={false};
 vector<pair<int,int>>vec[maxn];
 priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
 int n,m,b;
@@ -38,17 +39,22 @@ signed main(){
         vec[y].push_back({x,w});
     }
     
+    //dijkstra
     pq.push({0,0});
     while(!pq.empty()){
         auto now=pq.top();
         pq.pop();
-        if(dis[now.second]!=now.first){
-            continue;
+        int v=now.second;
+        if(gone[v]){
+            continue;                    //走過就跳過
         }
-        for(auto next:vec[now.second]){
-            if(dis[next.first]>now.first+next.second){
-                dis[next.first]=now.first+next.second;
-                pq.push({dis[next.first],next.first});
+        gone[v]=true;                    //標記成已經走訪過
+        for(auto next:vec[v]){           //找跟這點相鄰的
+            int u=next.first;            
+            int k=next.second;           
+            if(dis[u]>dis[v]+k){
+                dis[u]=dis[v]+k;
+                pq.push({dis[u],u});
             }
         }
     }
