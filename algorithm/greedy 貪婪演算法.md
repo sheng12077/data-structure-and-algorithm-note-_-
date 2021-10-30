@@ -37,5 +37,5 @@ signed main(){
     }
 }
 ```
-一樣的題目，敘述下而已
+一樣的題目，敘述改一下而已
 [zerojudge:b231: TOI2009 第三題：書](https://zerojudge.tw/ShowProblem?problemid=b231)
