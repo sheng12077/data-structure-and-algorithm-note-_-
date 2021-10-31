@@ -1,4 +1,5 @@
 --- | ---
+    |
 weight|重量 
 value|價值
 num|數量
