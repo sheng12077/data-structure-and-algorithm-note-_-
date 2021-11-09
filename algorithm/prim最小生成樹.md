@@ -144,3 +144,5 @@ signed main(){
 [zerojudge:a129: 最小生成樹](https://zerojudge.tw/ShowProblem?problemid=a129)
 
 [洛谷:P3366 【模板】最小生成树](https://www.luogu.com.cn/problem/P3366)
+
+[zerojudge:d909: 公路局長好煩惱！？](https://zerojudge.tw/ShowProblem?problemid=d909)
