@@ -25,6 +25,69 @@ void merge (int x,int y,int parent[]){
     parent[x_root]=y_root;   
 }
 ```
+
+[洛谷:P3367 【模板】并查集](https://www.luogu.com.cn/problem/P3367)
+```cpp
+#pragma GCC optimize("Ofast")
+#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,avx2,fma")
+#pragma GCC optimize("unroll-loops")
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long
+#define endl '\n'
+#define inf 2e18
+#define maxn 100005
+#define mod 1000000007
+
+
+int parent[maxn]={0};
+void initialise(int n){
+    for (int i=0;i<n;i++){
+        parent[i]=i;
+    }
+}
+
+int find(int x){
+    if (parent[x]==x){
+        return x;
+    }
+    else{
+        return parent[x]=find(parent[x]);
+    }
+}
+
+void merge (int x,int y){
+    int x_root=find(x);
+    int y_root=find(y);
+    parent[x_root]=y_root;   
+}
+
+
+signed main(){
+
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+
+    int n,m;
+    cin>>n>>m;
+    initialise(n);
+    while(m--){
+        int a,b,c;
+        cin>>a>>b>>c;
+        if(a==1){
+           merge(b,c);
+        }
+        else{
+            if(find(b)==find(c)){
+                cout<<"Y"<<endl;
+            }
+            else{
+                cout<<"N"<<endl;
+            }
+        }
+    }
+}
+```
 [zerojudge: a445: 新手訓練系列- 我的朋友很少](https://zerojudge.tw/ShowProblem?problemid=a445)AC (49ms, 452KB)
 ```cpp
 #include<bits/stdc++.h>
