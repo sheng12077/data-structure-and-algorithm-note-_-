@@ -146,3 +146,5 @@ signed main(){
 [洛谷:P3366 【模板】最小生成树](https://www.luogu.com.cn/problem/P3366)
 
 [zerojudge:d909: 公路局長好煩惱！？](https://zerojudge.tw/ShowProblem?problemid=d909)
+
+[洛谷:P1111 修复公路](https://www.luogu.com.cn/problem/P1111)
