@@ -1,2 +1,2 @@
 # algorithm-note
-幹你娘學習歷程
+學習歷程
